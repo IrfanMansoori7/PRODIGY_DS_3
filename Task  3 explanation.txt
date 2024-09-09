@@ -1,0 +1,5 @@
+In this project, we developed a **Decision Tree Classifier** to predict whether a customer would purchase a product or service based on demographic and behavioral data. The dataset used was derived from the **Bank Marketing dataset** from the **UCI Machine Learning Repository**, which contains data from marketing campaigns conducted through phone calls.
+
+We combined multiple subsets of the original dataset, including features such as customer demographics (age, job, marital status, education), financial data (balance, housing and loan status), and contact information (communication type, campaign details). After preprocessing and cleaning the data, we trained a decision tree model to classify customer outcomes (purchase or not) based on these features.
+
+The model was optimized using pruning techniques to reduce complexity and avoid overfitting. We visualized the decision tree to interpret the decision-making process and evaluated model performance to better understand the contribution of different features. The project successfully demonstrated how decision trees can help predict customer purchasing behavior using real-world marketing data.
